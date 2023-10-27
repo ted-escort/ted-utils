@@ -1,0 +1,17 @@
+{
+    "name": "ted/escort",
+    "description": "ted工具包",
+    "autoload": {
+        "psr-4": {
+            "Ted\\Escort\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ted"
+        }
+    ],
+    "require": {
+      "php": ">=7.3.0"
+    }
+}
